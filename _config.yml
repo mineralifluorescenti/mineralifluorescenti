@@ -1,0 +1,38 @@
+title: MineraliFluorescenti
+description: >
+  MineraliFluorescenti è nato con l'idea di provvedere alcune pagine 
+  di riferimento riguardo i minerali fluorescenti, o, più in generale, 
+  luminescenti. Varie risorse sono disponibili in lingua inglese, ma non 
+  molto in italiano.
+permalink: pretty
+url: "https://mineralifluorescenti.com"
+destination: ../master
+
+# Social link
+google_url:    # add url link
+twitter_url:   # add url link
+instagram_url: # add url link
+pinterest_url: # add url link
+dribbble_url:  # add url link
+facebook_url:  # add url link
+
+sass:
+    style: compressed
+    sourcemap: never
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+
+gems:
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+
+collections:
+  articles:
+    output: true
+    permalink: /:name/
+
