@@ -2,7 +2,7 @@
 layout: main
 ---
 
-{% assign sorted_articles = "minlum|uvlight|sassaquartz" | split: "|" %}
+{% assign sorted_articles = "minlum|uvlight|localitaitalia|sassaquartz" | split: "|" %}
 {% for article_id in sorted_articles %}
   {% assign post = site.articles | where: "article_id", article_id | first %}
   <div class="chapter">
