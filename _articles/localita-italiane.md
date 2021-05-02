@@ -260,6 +260,22 @@ presente anche una fosforescenza verde. Foto do Stefano Buzzoni su
 </figcaption>
 </figure>
 
+<figure>
+<img src="/img/italy/axinite-mtpu-visible.jpg">
+<img src="/img/italy/axinite-mtpu-uva.jpg">
+<figcaption>
+Axinite dalle vecchie miniere di rame e manganese del Monte Pu, Castiglione
+Chiavarese, Genova, Liguria. Gruppi lenticolari di axinite si trovano formate
+nei contatti tra diaspro e calcari, sia di un colore rosato, che verdognolo.
+Solo quelle rosate sono fluorescenti rosse/arancione, principalmente sotto UVA.
+La differenza in colorazione e fluorescenza è probabilmente dovuta alla
+differente percentuale di ferro e manganese.  Queste axiniti si trovano spesso
+associate a patine di turgite (ematite/goetite), o piccole cristallizzazioni di
+ematite.  La fluorescenza pare essere stata notata per la prima volta ad inizio
+2021 da Giacomo Delmonte. Foto di Daniel C.  Montero.
+</figcaption>
+</figure>
+
 
 ## Bibliographia.
 
